@@ -26,3 +26,10 @@ Le décompte des répondants a renvoyé 1259 comme prévu.</br>
 Le nombre de sociétés technologiques a renvoyé 1031 comme prévu.</br>
 Le bouton de réinitialisation réinitialise tous les filtres sur le tableau de bord comme prévu.</br>
 Tous les affichages numériques s'ajustent dynamiquement aux filtres supplémentaires.</br>
+
+
+
+![image](https://user-images.githubusercontent.com/58346874/103141074-7fc9ed00-46ef-11eb-9033-dc13a87d237d.png)
+![image](https://user-images.githubusercontent.com/58346874/103141077-835d7400-46ef-11eb-8b28-409b4cee47bd.png)
+![image](https://user-images.githubusercontent.com/58346874/103141080-87899180-46ef-11eb-8ab8-d64fab0cf2fc.png)
+![image](https://user-images.githubusercontent.com/58346874/103141083-8b1d1880-46ef-11eb-8eb7-f84a0fd81f06.png)
